@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: knowledge
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      server-addr: 43.143.160.17:8849
+      discovery:
+        namespace: bba1eb84-ae66-48ac-a576-6ff4486f9786
+      config:
+        file-extension: yaml
+        server-addr: 43.143.160.17:8849
+        namespace: bba1eb84-ae66-48ac-a576-6ff4486f9786
+        extension-configs:
+          - data-id: baseInfo.yaml
+            refresh: true
