@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.personalize</groupId><!-- lookup parent from repository -->
-        <artifactId>scienceKnowledge</artifactId>
+        <artifactId>backendTemplate</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.personalize</groupId>

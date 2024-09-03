@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.personalize</groupId>
-    <artifactId>scienceKnowledge</artifactId>
+    <artifactId>backendTemplate</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>scienceKnowledge</name>
-    <description>scienceKnowledge</description>
+    <name>backendTemplate</name>
+    <description>backendTemplate</description>
     <properties>
         <java.version>11</java.version>
         <spring-cloud.version>Hoxton.SR10</spring-cloud.version>
